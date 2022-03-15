@@ -12,13 +12,8 @@
     grid-column: 1/4;
     grid-row: 1;
 }
-#link1{
+#sueldo{
     text-align: center;
     grid-column: 1;
-    grid-row: 2;
-}
-#link2{
-    text-align: center;
-    grid-column: 3;
     grid-row: 2;
 }
