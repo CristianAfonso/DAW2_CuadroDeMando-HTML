@@ -1,0 +1,23 @@
+.body{
+    background-color: aqua;
+}
+#contenedor{
+    display: grid;
+    grid-template-columns: repeat(3, 33%);
+    margin: 15% 20% auto 20%;
+}
+#titulo{
+    text-align: center;
+    grid-column: 1/4;
+    grid-row: 1;
+}
+#link1{
+    text-align: center;
+    grid-column: 1;
+    grid-row: 2;
+}
+#link2{
+    text-align: center;
+    grid-column: 3;
+    grid-row: 2;
+}
