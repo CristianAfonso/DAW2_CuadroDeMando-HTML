@@ -3,6 +3,7 @@
 }
 #contenedor{
     display: grid;
+    background-color: lightgrey;
     grid-template-columns: repeat(3, 33%);
     margin: 15% 20% auto 20%;
 }

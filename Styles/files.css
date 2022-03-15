@@ -6,6 +6,7 @@
     grid-template-columns: repeat(4,25%);
     grid-auto-rows: 25%;
     margin: 15% 20% auto 20%;
+    background-color: lightgrey;
 }
 #titulo{
     text-align: center;
